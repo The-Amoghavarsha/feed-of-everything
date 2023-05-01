@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>
+      Feeder
+    </title>
+  </head>
+  <body>
+    <outline title="United Nations eSubscription Service" text="United Nations eSubscription Service" type="rss" xmlUrl="https://undocs.org/rss/hrc.xml"/>
+    <outline title="Asia" text="Asia">
+      <outline title="South China Morning Post" text="South China Morning Post" type="rss" xmlUrl="https://www.scmp.com/rss/3/feed"/>
+      <outline title="South China Morning Post" text="South China Morning Post" type="rss" xmlUrl="https://www.scmp.com/rss/91/feed"/>
+    </outline>
+    <outline title="Australia" text="Australia">
+      <outline title="Home – The Conversation" text="Home – The Conversation" type="rss" xmlUrl="https://theconversation.com/au/home-page/articles.atom"/>
+      <outline title="World News - Breaking international news and headlines | Sky News" text="World News - Breaking international news and headlines | Sky News" type="rss" xmlUrl="https://feeds.skynews.com/feeds/rss/world.xml"/>
+      <outline title="Sydney Morning Herald - Latest News" text="Sydney Morning Herald - Latest News" type="rss" xmlUrl="https://www.smh.com.au/rss/feed.xml"/>
+    </outline>
+    <outline title="China" text="China">
+      <outline title="South China Morning Post" text="South China Morning Post" type="rss" xmlUrl="https://www.scmp.com/rss/4/feed"/>
+      <outline title="XINHUANEWS" text="XINHUANEWS" type="rss" xmlUrl="http://www.xinhuanet.com/english/rss/chinarss.xml"/>
+      <outline title="RSS – New China | English.news.cn" text="RSS – New China | English.news.cn" type="rss" xmlUrl="http://www.xinhuanet.com/english/rss/newchina.xml"/>
+    </outline>
+    <outline title="Cinema" text="Cinema">
+      <outline title="The Cinemaholic" text="The Cinemaholic" type="rss" xmlUrl="https://thecinemaholic.com/feed/"/>
+      <outline title="Slant Magazine" text="Slant Magazine" type="rss" xmlUrl="https://www.slantmagazine.com/feed/"/>
+    </outline>
+    <outline title="Russia" text="Russia">
+      <outline title="The Moscow Times - Independent News From Russia" text="The Moscow Times - Independent News From Russia" type="rss" xmlUrl="https://www.themoscowtimes.com/rss/city"/>
+    </outline>
+    <outline title="Crypto" text="Crypto">
+      <outline title="CoinDesk" text="CoinDesk" type="rss" xmlUrl="https://www.coindesk.com/feed"/>
+      <outline title="NewsBTC" text="NewsBTC" type="rss" xmlUrl="https://www.newsbtc.com/feed/"/>
+      <outline title="Toshi Times" text="Toshi Times" type="rss" xmlUrl="https://toshitimes.com/feed/"/>
+    </outline>
+    <outline title="Cyber blogs" text="Cyber blogs">
+      <outline title="MalwareTech" text="MalwareTech" type="rss" xmlUrl="https://www.malwaretech.com/feed"/>
+      <outline title="Decent Security" text="Decent Security" type="rss" xmlUrl="https://decentsecurity.com/learn?format=rss"/>
+      <outline title="McAfee Blogs" text="McAfee Blogs" type="rss" xmlUrl="https://www.mcafee.com/blogs/feed/"/>
+      <outline title="Schneier on Security" text="Schneier on Security" type="rss" xmlUrl="https://www.schneier.com/feed/atom/"/>
+      <outline title="Quick Heal Blog | Latest computer security news, tips, and advice" text="Quick Heal Blog | Latest computer security news, tips, and advice" type="rss" xmlUrl="https://blogs.quickheal.com/feed/"/>
+      <outline title="Google Online Security Blog" text="Google Online Security Blog" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleOnlineSecurityBlog"/>
+    </outline>
+    <outline title="Cybersecurity news" text="Cybersecurity news">
+      <outline title="Threatpost" text="Threatpost" type="rss" xmlUrl="https://threatpost.com/feed/"/>
+      <outline title="Naked Security" text="Naked Security" type="rss" xmlUrl="https://nakedsecurity.sophos.com/feed/"/>
+      <outline title="Krebs on Security" text="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"/>
+      <outline title="Hacker News: Newest" text="Hacker News: Newest" type="rss" xmlUrl="https://hnrss.org/newest"/>
+      <outline title="Graham Cluley" text="Graham Cluley" type="rss" xmlUrl="https://grahamcluley.com/feed/"/>
+    </outline>
+    <outline title="Indian Diplomats&apos; blog" text="Indian Diplomats&apos; blog">
+      <outline title="The Atlas Bug" text="The Atlas Bug" type="rss" xmlUrl="https://theatlasbug.wordpress.com/feed/"/>
+      <outline title="Dominic Cummings&apos;s Blog" text="Dominic Cummings&apos;s Blog" type="rss" xmlUrl="https://dominiccummings.com/feed/"/>
+      <outline title="thescorpionsopinion" text="thescorpionsopinion" type="rss" xmlUrl="https://thescorpionsopinion.wordpress.com/feed/"/>
+      <outline title="Dialect Blog" text="Dialect Blog" type="rss" xmlUrl="http://dialectblog.com/feed/"/>
+      <outline title="Besan Ka Halwa" text="Besan Ka Halwa" type="rss" xmlUrl="https://www.blogger.com/feeds/6063654998337995918/posts/default"/>
+    </outline>
+    <outline title="Economy" text="Economy">
+      <outline title="Planet Money" text="Planet Money" type="rss" xmlUrl="https://feeds.npr.org/510289/podcast.xml"/>
+      <outline title="WSJ.com: US Business" text="WSJ.com: US Business" type="rss" xmlUrl="https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"/>
+      <outline title="WSJ.com: Markets" text="WSJ.com: Markets" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSMarketsMain.xml"/>
+      <outline title="Businesstopia" text="Businesstopia" type="rss" xmlUrl="https://www.businesstopia.net/feed"/>
+      <outline title="Moneycontrol Latest News" text="Moneycontrol Latest News" type="rss" xmlUrl="https://www.moneycontrol.com/rss/latestnews.xml"/>
+      <outline title="Vivek Kaul" text="Vivek Kaul" type="rss" xmlUrl="https://vivekkaul.com/feed/"/>
+      <outline title="Business Insider" text="Business Insider" type="rss" xmlUrl="https://www.businessinsider.com/rss?IR=T"/>
+      <outline title="The world this week" text="The world this week" type="rss" xmlUrl="https://www.economist.com/the-world-this-week/rss.xml"/>
+    </outline>
+    <outline title="Entertainment" text="Entertainment">
+      <outline title="The Hindu - Entertainment" text="The Hindu - Entertainment" type="rss" xmlUrl="https://www.thehindu.com/entertainment/feeder/default.rss"/>
+    </outline>
+    <outline title="Eurasia" text="Eurasia">
+      <outline title="" text="" type="rss" xmlUrl="https://eurasianet.org/rss"/>
+    </outline>
+    <outline title="Europe" text="Europe">
+      <outline title="EurAsian Times: Latest Asian, Middle-East, EurAsian, Indian News" text="EurAsian Times: Latest Asian, Middle-East, EurAsian, Indian News" type="rss" xmlUrl="https://eurasiantimes.com/feed/"/>
+      <outline title="Deutsche Welle: DW.com - Europe" text="Deutsche Welle: DW.com - Europe" type="rss" xmlUrl="https://rss.dw.com/rdf/rss-en-eu"/>
+    </outline>
+    <outline title="Fact check - World" text="Fact check - World">
+      <outline title="Snopes.com" text="Snopes.com" type="rss" xmlUrl="https://www.snopes.com/feed/"/>
+      <outline title="FactCheck.org" text="FactCheck.org" type="rss" xmlUrl="https://www.factcheck.org/feed/"/>
+      <outline title="Truth or Fiction?" text="Truth or Fiction?" type="rss" xmlUrl="https://www.truthorfiction.com/feed/"/>
+      <outline title="Lead Stories" text="Lead Stories" type="rss" xmlUrl="https://leadstories.com/atom.xml"/>
+      <outline title="Hoax-Slayer" text="Hoax-Slayer" type="rss" xmlUrl="https://www.hoax-slayer.net/feed/"/>
+      <outline title="Full Fact - All content" text="Full Fact - All content" type="rss" xmlUrl="https://fullfact.org/feed/all/"/>
+    </outline>
+    <outline title="Fact checking - India" text="Fact checking - India">
+      <outline title="Alt News" text="Alt News" type="rss" xmlUrl="https://www.altnews.in/feed/"/>
+      <outline title="Swachh Social Media Abhiyaan" text="Swachh Social Media Abhiyaan" type="rss" xmlUrl="https://smhoaxslayer.com/feed/"/>
+      <outline title="FACTLY" text="FACTLY" type="rss" xmlUrl="https://factly.in/feed/"/>
+      <outline title="Check4Spam" text="Check4Spam" type="rss" xmlUrl="https://check4spam.com/feed/"/>
+      <outline title="FactChecker" text="FactChecker" type="rss" xmlUrl="https://www.factchecker.in/feed/"/>
+    </outline>
+    <outline title="FOSS" text="FOSS">
+      <outline title="FOSSMint: Everything About Linux and FOSS" text="FOSSMint: Everything About Linux and FOSS" type="rss" xmlUrl="https://www.fossmint.com/feed/"/>
+    </outline>
+    <outline title="France" text="France">
+      <outline title="Le Monde diplomatique - English edition" text="Le Monde diplomatique - English edition" type="rss" xmlUrl="https://mondediplo.com/rss"/>
+    </outline>
+    <outline title="General" text="General">
+      <outline title="Gizmodo" text="Gizmodo" type="rss" xmlUrl="https://gizmodo.com/rss"/>
+    </outline>
+    <outline title="Geopolitics" text="Geopolitics">
+      <outline title="Geopolitical Monitor" text="Geopolitical Monitor" type="rss" xmlUrl="https://www.geopoliticalmonitor.com/feed/podcast"/>
+      <outline title="VIKRAM SOOD&apos;S PERSPECTIVES" text="VIKRAM SOOD&apos;S PERSPECTIVES" type="rss" xmlUrl="https://www.blogger.com/feeds/7334994418553245876/posts/default"/>
+    </outline>
+    <outline title="Germany" text="Germany">
+      <outline title="Deutsche Welle: DW.com - Germany" text="Deutsche Welle: DW.com - Germany" type="rss" xmlUrl="https://rss.dw.com/rdf/rss-en-ger"/>
+    </outline>
+    <outline title="Health" text="Health">
+      <outline title="STAT" text="STAT" type="rss" xmlUrl="https://www.statnews.com/feed/"/>
+    </outline>
+    <outline title="Health blogs" text="Health blogs">
+      <outline title="Physicians for Safe Technology" text="Physicians for Safe Technology" type="rss" xmlUrl="https://mdsafetech.org/feed/"/>
+    </outline>
+    <outline title="IAS Blog" text="IAS Blog">
+      <outline title="Khelo India" text="Khelo India" type="rss" xmlUrl="https://thesupermanreturns.wordpress.com/feed/"/>
+      <outline title="Stories by Shreyans Kumat on Medium" text="Stories by Shreyans Kumat on Medium" type="rss" xmlUrl="https://medium.com/feed/@shreyanskumat"/>
+      <outline title="Naveen Kumar Chandra" text="Naveen Kumar Chandra" type="rss" xmlUrl="https://naveenkumarchandra.tumblr.com/rss"/>
+    </outline>
+    <outline title="India" text="India">
+      <outline title="Huffington Post India" text="Huffington Post India" type="rss" xmlUrl="https://www.huffingtonpost.in/feeds/index.xml"/>
+      <outline title="ThePrint" text="ThePrint" type="rss" xmlUrl="https://theprint.in/feed/"/>
+      <outline title="Scroll.in" text="Scroll.in" type="rss" xmlUrl="http://feeds.feedburner.com/ScrollinArticles.rss"/>
+      <outline title="Outlook India" text="Outlook India" type="rss" xmlUrl="https://www.outlookindia.com/rss/home"/>
+      <outline title="The Asian Age | Home" text="The Asian Age | Home" type="rss" xmlUrl="https://www.asianage.com/rss_feed/"/>
+      <outline title="News Hunt Media" text="News Hunt Media" type="rss" xmlUrl="https://newshuntmedia.com/feed/"/>
+      <outline title="OpIndia" text="OpIndia" type="rss" xmlUrl="https://www.opindia.com/feed/"/>
+      <outline title="India Opines" text="India Opines" type="rss" xmlUrl="http://indiaopines.com/feed/"/>
+      <outline title="The Rational Daily" text="The Rational Daily" type="rss" xmlUrl="http://www.therationaldaily.com/feed/"/>
+      <outline title="The News Minute" text="The News Minute" type="rss" xmlUrl="https://www.thenewsminute.com/rss.xml"/>
+      <outline title="ORF" text="ORF" type="rss" xmlUrl="https://www.orfonline.org/feed/"/>
+      <outline title="DU EXPRESS" text="DU EXPRESS" type="rss" xmlUrl="https://duexpress.in/feed/"/>
+      <outline title="NewsClick - India" text="NewsClick - India" type="rss" xmlUrl="https://www.newsclick.in/taxonomy/term/india/feed"/>
+      <outline title="News Click" text="News Click" type="rss" xmlUrl="https://www.newsclick.in/All-articles.xml"/>
+      <outline title="Newslaundry" text="Newslaundry" type="rss" xmlUrl="https://www.newslaundry.com/feed"/>
+      <outline title="The Quint" text="The Quint" type="rss" xmlUrl="https://www.thequint.com/feed"/>
+      <outline title="The Wire" text="The Wire" type="rss" xmlUrl="https://thewire.in/rss"/>
+      <outline title="Hindustan Times - world" text="Hindustan Times - world" type="rss" xmlUrl="https://www.hindustantimes.com/rss/world/rssfeed.xml"/>
+      <outline title="Hindustan Times - india" text="Hindustan Times - india" type="rss" xmlUrl="https://www.hindustantimes.com/rss/india/rssfeed.xml"/>
+      <outline title="Hindustan Times - topnews" text="Hindustan Times - topnews" type="rss" xmlUrl="https://www.hindustantimes.com/rss/topnews/rssfeed.xml"/>
+      <outline title="The Hindu - National" text="The Hindu - National" type="rss" xmlUrl="https://www.thehindu.com/news/national/feeder/default.rss"/>
+      <outline title="The Indian Express" text="The Indian Express" type="rss" xmlUrl="https://indianexpress.com/feed/"/>
+      <outline title="The Tribune - International" text="The Tribune - International" type="rss" xmlUrl="https://www.tribuneindia.com/rss/feed?catId=57"/>
+      <outline title="The Tribune - National" text="The Tribune - National" type="rss" xmlUrl="https://www.tribuneindia.com/rss/feed?catId=0"/>
+      <outline title="The Tribune - General" text="The Tribune - General" type="rss" xmlUrl="https://www.tribuneindia.com/rss/feed?catId=42"/>
+      <outline title="Firstpost India Latest News" text="Firstpost India Latest News" type="rss" xmlUrl="https://www.firstpost.com/rss/india.xml"/>
+      <outline title="The Hindu - Science" text="The Hindu - Science" type="rss" xmlUrl="https://www.thehindu.com/sci-tech/science/feeder/default.rss"/>
+      <outline title="The Hindu - Fitness" text="The Hindu - Fitness" type="rss" xmlUrl="https://www.thehindu.com/life-and-style/fitness/feeder/default.rss"/>
+      <outline title="The Hindu - Food" text="The Hindu - Food" type="rss" xmlUrl="https://www.thehindu.com/life-and-style/food/feeder/default.rss"/>
+    </outline>
+    <outline title="Indian Bureaucrats" text="Indian Bureaucrats">
+      <outline title="Indian Masterminds – Bureaucracy, Bureaucrats, Policy, IAS, IPS, IRS, IFS, Civil Services, UPSC, Government, PSUs complete information, NEWS, Transfers, Features, and Opinion." text="Indian Masterminds – Bureaucracy, Bureaucrats, Policy, IAS, IPS, IRS, IFS, Civil Services, UPSC, Government, PSUs complete information, NEWS, Transfers, Features, and Opinion." type="rss" xmlUrl="https://indianmasterminds.com/feed/"/>
+    </outline>
+    <outline title="Indian regional" text="Indian regional">
+      <outline title="Telangana Today" text="Telangana Today" type="rss" xmlUrl="https://telanganatoday.com/feed"/>
+    </outline>
+    <outline title="Indian think tanks" text="Indian think tanks">
+      <outline title="News and articles" text="News and articles" type="rss" xmlUrl="http://feeds.feedburner.com/vifindia/xarL"/>
+    </outline>
+    <outline title="Intelligence" text="Intelligence">
+      <outline title="National Security Agency News" text="National Security Agency News" type="rss" xmlUrl="https://www.nsa.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&amp;Site=920&amp;max=20"/>
+      <outline title="CIA Newsroom" text="CIA Newsroom" type="rss" xmlUrl="https://www.cia.gov/news-information/your-news/cia-newsroom/RSS.xml"/>
+      <outline title="CIA Library" text="CIA Library" type="rss" xmlUrl="https://www.cia.gov/news-information/your-news/cia-library/RSS.xml"/>
+      <outline title="Rethinking National Security" text="Rethinking National Security" type="rss" xmlUrl="http://feeds.feedburner.com/RethinkingNationalSecurity"/>
+    </outline>
+    <outline title="International" text="International">
+      <outline title="Global Citizen" text="Global Citizen" type="rss" xmlUrl="https://www.globalcitizen.org/en/content/feed/"/>
+      <outline title="The Guardian" text="The Guardian" type="rss" xmlUrl="https://www.theguardian.com/international/rss"/>
+      <outline title="NYT &gt; Top Stories" text="NYT &gt; Top Stories" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+      <outline title="The Atlantic" text="The Atlantic" type="rss" xmlUrl="https://www.theatlantic.com/feed/all/"/>
+      <outline title="The Christian Science Monitor | World" text="The Christian Science Monitor | World" type="rss" xmlUrl="https://rss.csmonitor.com/feeds/world"/>
+      <outline title="Politics" text="Politics" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/politics?itid=lk_inline_manual_2"/>
+      <outline title="WSJ.com: World News" text="WSJ.com: World News" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml"/>
+      <outline title="The Diplomat" text="The Diplomat" type="rss" xmlUrl="https://thediplomat.com/feed/"/>
+      <outline title="RT - Daily news" text="RT - Daily news" type="rss" xmlUrl="https://www.rt.com/rss/"/>
+      <outline title="TIME" text="TIME" type="rss" xmlUrl="https://time.com/feed/"/>
+      <outline title="International-News-Economic Times" text="International-News-Economic Times" type="rss" xmlUrl="https://economictimes.indiatimes.com/rssfeeds/858478126.cms"/>
+      <outline title="Firstpost World Latest News" text="Firstpost World Latest News" type="rss" xmlUrl="https://www.firstpost.com/rss/world.xml"/>
+      <outline title="The Hindu - International" text="The Hindu - International" type="rss" xmlUrl="https://www.thehindu.com/news/international/feeder/default.rss"/>
+      <outline title="E-International Relations" text="E-International Relations" type="rss" xmlUrl="https://www.e-ir.info/feed/"/>
+      <outline title="TRT World - Where News inspires Change" text="TRT World - Where News inspires Change" type="rss" xmlUrl="https://www.trtworld.com/feed/rss.xml"/>
+    </outline>
+    <outline title="Isreal" text="Isreal">
+      <outline title="The Times of Israel" text="The Times of Israel" type="rss" xmlUrl="https://www.timesofisrael.com/feed/"/>
+    </outline>
+    <outline title="Journalists&apos; blogs" text="Journalists&apos; blogs">
+      <outline title="Unclaimed Territory - by Glenn Greenwald" text="Unclaimed Territory - by Glenn Greenwald" type="rss" xmlUrl="https://www.blogger.com/feeds/18169267/posts/default"/>
+    </outline>
+    <outline title="Latin America" text="Latin America">
+      <outline title="Independent.ie - Latin America RSS Feed" text="Independent.ie - Latin America RSS Feed" type="rss" xmlUrl="https://www.independent.ie/rss/world-news/latin-america/"/>
+      <outline title="COHA" text="COHA" type="rss" xmlUrl="https://www.coha.org/feed/"/>
+    </outline>
+    <outline title="Law" text="Law">
+      <outline title="LAWS.com" text="LAWS.com" type="rss" xmlUrl="https://laws.com/feed/"/>
+      <outline title="Recent Contributors to The National Law Review" text="Recent Contributors to The National Law Review" type="rss" xmlUrl="https://www.natlawreview.com/recent-contributions/feed"/>
+    </outline>
+    <outline title="Local" text="Local">
+      <outline title="Star of Mysore" text="Star of Mysore" type="rss" xmlUrl="https://starofmysore.com/feed/"/>
+      <outline title="Bangalore Today" text="Bangalore Today" type="rss" xmlUrl="https://bangaloretoday.in/feed/"/>
+    </outline>
+    <outline title="London" text="London">
+      <outline title="The Sun" text="The Sun" type="rss" xmlUrl="https://www.thesun.co.uk/feed/"/>
+    </outline>
+    <outline title="Maldives" text="Maldives">
+      <outline title="Maldives Independent" text="Maldives Independent" type="rss" xmlUrl="https://maldivesindependent.com/feed"/>
+    </outline>
+    <outline title="Middle east" text="Middle east">
+      <outline title="Al Jazeera – Breaking News, World News and Video from Al Jazeera" text="Al Jazeera – Breaking News, World News and Video from Al Jazeera" type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml"/>
+      <outline title="ArabNews" text="ArabNews" type="rss" xmlUrl="https://www.arabnews.com/rss.xml"/>
+    </outline>
+    <outline title="Military" text="Military">
+      <outline title="Missile Threat" text="Missile Threat" type="rss" xmlUrl="https://missilethreat.csis.org/feed/"/>
+      <outline title="Military History Blog on the Web" text="Military History Blog on the Web" type="rss" xmlUrl="http://feeds.feedburner.com/MilitaryHistoryBlogOnTheWeb"/>
+    </outline>
+    <outline title="MINT" text="MINT">
+      <outline title="mint - Money" text="mint - Money" type="rss" xmlUrl="https://www.livemint.com/rss/money"/>
+      <outline title="mint - Companies" text="mint - Companies" type="rss" xmlUrl="https://www.livemint.com/rss/companies"/>
+    </outline>
+    <outline title="Nepal" text="Nepal">
+      <outline title="Kathamndu post RSS" text="Kathamndu post RSS" type="rss" xmlUrl="https://kathmandupost.com/rss"/>
+    </outline>
+    <outline title="News Channels(India)" text="News Channels(India)">
+      <outline title="India Today | Latest Stories" text="India Today | Latest Stories" type="rss" xmlUrl="https://www.indiatoday.in/rss/home"/>
+      <outline title="India Today | World" text="India Today | World" type="rss" xmlUrl="https://www.indiatoday.in/rss/1206577"/>
+      <outline title="India Today | Nation" text="India Today | Nation" type="rss" xmlUrl="https://www.indiatoday.in/rss/1206514"/>
+      <outline title="NDTV News - World-news" text="NDTV News - World-news" type="rss" xmlUrl="https://feeds.feedburner.com/ndtvnews-world-news"/>
+      <outline title="NDTV News - India-news" text="NDTV News - India-news" type="rss" xmlUrl="https://feeds.feedburner.com/ndtvnews-india-news"/>
+    </outline>
+    <outline title="North East" text="North East">
+      <outline title="TNT-The NorthEast Today" text="TNT-The NorthEast Today" type="rss" xmlUrl="https://www.thenortheasttoday.com/feed"/>
+      <outline title="Jammu Kashmir Latest News | Tourism | Breaking News J&amp;K" text="Jammu Kashmir Latest News | Tourism | Breaking News J&amp;K" type="rss" xmlUrl="https://www.dailyexcelsior.com/feed/"/>
+    </outline>
+    <outline title="Orgs" text="Orgs">
+      <outline title="Economist Intelligence Unit" text="Economist Intelligence Unit" type="rss" xmlUrl="https://www.eiu.com/n/feed/"/>
+    </outline>
+    <outline title="Others" text="Others">
+      <outline title="RSF - RSS feed" text="RSF - RSS feed" type="rss" xmlUrl="https://rsf.org/en/rss.xml"/>
+      <outline title="Vox - All" text="Vox - All" type="rss" xmlUrl="https://www.vox.com/rss/index.xml"/>
+      <outline title="TechCrunch" text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/?guccounter=2"/>
+      <outline title="Lifehacker" text="Lifehacker" type="rss" xmlUrl="https://lifehacker.com/rss"/>
+      <outline title="Amnesty International" text="Amnesty International" type="rss" xmlUrl="https://www.amnesty.org/en/rss/"/>
+      <outline title="Newtrals" text="Newtrals" type="rss" xmlUrl="https://www.newtrals.com/feed/"/>
+    </outline>
+    <outline title="Pakistan" text="Pakistan">
+      <outline title="Pakistan Today" text="Pakistan Today" type="rss" xmlUrl="https://www.pakistantoday.com.pk/feed/"/>
+      <outline title="The Express Tribune" text="The Express Tribune" type="rss" xmlUrl="https://tribune.com.pk/feed/home"/>
+    </outline>
+    <outline title="Privacy" text="Privacy">
+      <outline title="SFLC.in - Defender of Your Digital Freedom" text="SFLC.in - Defender of Your Digital Freedom" type="rss" xmlUrl="https://sflc.in/rss.xml"/>
+      <outline title="Internet Freedom Foundation" text="Internet Freedom Foundation" type="rss" xmlUrl="https://internetfreedom.in/rss/"/>
+      <outline title="News &amp; Advocacy" text="News &amp; Advocacy" type="rss" xmlUrl="https://freedom.press/news/feed/"/>
+      <outline title="PrivacyTools" text="PrivacyTools" type="rss" xmlUrl="https://blog.privacytools.io/rss/"/>
+    </outline>
+    <outline title="Random blogs" text="Random blogs">
+      <outline title="Break the Hegemony" text="Break the Hegemony" type="rss" xmlUrl="https://vamshidharkondra.wordpress.com/feed/"/>
+    </outline>
+    <outline title="REDDIT" text="REDDIT">
+      <outline title="reddit: the front page of the internet" text="reddit: the front page of the internet" type="rss" xmlUrl="https://www.reddit.com/.rss"/>
+    </outline>
+    <outline title="right" text="right">
+      <outline title="Swarajya" text="Swarajya" type="rss" xmlUrl="https://swarajyamag.com/feed"/>
+    </outline>
+    <outline title="Russia" text="Russia">
+      <outline title="RT Russia &amp; Former Soviet Union" text="RT Russia &amp; Former Soviet Union" type="rss" xmlUrl="https://www.rt.com/rss/russia/"/>
+      <outline title="The Moscow Times - Independent News From Russia" text="The Moscow Times - Independent News From Russia" type="rss" xmlUrl="https://www.themoscowtimes.com/rss/news"/>
+    </outline>
+    <outline title="Science" text="Science">
+      <outline title="Latest Science News -- ScienceDaily" text="Latest Science News -- ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/all.xml"/>
+      <outline title="SciTechDaily" text="SciTechDaily" type="rss" xmlUrl="https://scitechdaily.com/feed/"/>
+    </outline>
+    <outline title="SECURITY BLOGS" text="SECURITY BLOGS">
+      <outline title="Comments for Sam Curry" text="Comments for Sam Curry" type="rss" xmlUrl="https://samcurry.net/comments/feed/"/>
+    </outline>
+    <outline title="Self-improvement" text="Self-improvement">
+      <outline title="The Bioneer" text="The Bioneer" type="rss" xmlUrl="https://www.thebioneer.com/feed/"/>
+    </outline>
+    <outline title="Sharks" text="Sharks">
+      <outline title="blog maverick" text="blog maverick" type="rss" xmlUrl="https://blogmaverick.com/feed/"/>
+      <outline title="Warren Buffett Blog" text="Warren Buffett Blog" type="rss" xmlUrl="https://www.blogger.com/feeds/1458784535853294709/posts/default"/>
+      <outline title="Virgin - Richard" text="Virgin - Richard" type="rss" xmlUrl="https://www.virgin.com/taxonomy/term/2410/feed"/>
+      <outline title="Kevin O’Leary" text="Kevin O’Leary" type="rss" xmlUrl="https://www.kevinoleary.com/feed/"/>
+      <outline title="DaymondJohn.com - Journal" text="DaymondJohn.com - Journal" type="rss" xmlUrl="https://daymondjohn.com/blogs/journal.atom"/>
+      <outline title="Barbara Corcoran" text="Barbara Corcoran" type="rss" xmlUrl="https://www.barbaracorcoran.com/feed/"/>
+      <outline title="Robert Herjavec" text="Robert Herjavec" type="rss" xmlUrl="https://robertherjavec.com/feed/"/>
+      <outline title="Kevin Harrington" text="Kevin Harrington" type="rss" xmlUrl="https://kevinharrington.tv/feed/"/>
+    </outline>
+    <outline title="Swiss" text="Swiss">
+      <outline title="Le News" text="Le News" type="rss" xmlUrl="https://lenews.ch/feed/"/>
+    </outline>
+    <outline title="Tanzania" text="Tanzania">
+      <outline title="The Citizen | Tanzanias leading English news site - Home" text="The Citizen | Tanzanias leading English news site - Home" type="rss" xmlUrl="https://www.thecitizen.co.tz/latestrss.rss"/>
+    </outline>
+    <outline title="Technology" text="Technology">
+      <outline title="Fossbytes" text="Fossbytes" type="rss" xmlUrl="https://fossbytes.com/feed/"/>
+      <outline title="Tecmint: Linux Howtos, Tutorials &amp; Guides" text="Tecmint: Linux Howtos, Tutorials &amp; Guides" type="rss" xmlUrl="https://feeds.feedburner.com/tecmint"/>
+      <outline title="It&apos;s FOSS" text="It&apos;s FOSS" type="rss" xmlUrl="https://feeds.feedburner.com/ItsFoss"/>
+      <outline title="Tech Insider" text="Tech Insider" type="rss" xmlUrl="https://www.techinsider.net/feed"/>
+      <outline title="The Verge - All Posts" text="The Verge - All Posts" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml"/>
+      <outline title="Slashdot" text="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain"/>
+      <outline title="Ars Technica" text="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/"/>
+      <outline title="Tech News - Latest Technology and Gadget News | Sky News" text="Tech News - Latest Technology and Gadget News | Sky News" type="rss" xmlUrl="https://feeds.skynews.com/feeds/rss/technology.xml"/>
+      <outline title="Underjord" text="Underjord" type="rss" xmlUrl="https://underjord.io/feed.xml"/>
+      <outline title="Articles on TechRepublic" text="Articles on TechRepublic" type="rss" xmlUrl="https://www.techrepublic.com/rssfeeds/articles/?feedType=rssfeeds&amp;sort=latest"/>
+      <outline title="Wired" text="Wired" type="rss" xmlUrl="https://www.wired.com/feed/rss"/>
+    </outline>
+    <outline title="THE HINDU BUSINESS" text="THE HINDU BUSINESS">
+      <outline title="The Hindu - Agri-Business" text="The Hindu - Agri-Business" type="rss" xmlUrl="https://www.thehindu.com/business/agri-business/feeder/default.rss"/>
+      <outline title="The Hindu - Industry" text="The Hindu - Industry" type="rss" xmlUrl="https://www.thehindu.com/business/Industry/feeder/default.rss"/>
+      <outline title="The Hindu - Economy" text="The Hindu - Economy" type="rss" xmlUrl="https://www.thehindu.com/business/Economy/feeder/default.rss"/>
+      <outline title="The Hindu - Markets" text="The Hindu - Markets" type="rss" xmlUrl="https://www.thehindu.com/business/markets/feeder/default.rss"/>
+      <outline title="The Hindu - Budget 2021" text="The Hindu - Budget 2021" type="rss" xmlUrl="https://www.thehindu.com/business/budget/feeder/default.rss"/>
+    </outline>
+    <outline title="The UK" text="The UK">
+      <outline title="The Independent" text="The Independent" type="rss" xmlUrl="http://www.independent.co.uk/rss"/>
+      <outline title="International homepage" text="International homepage" type="rss" xmlUrl="https://www.ft.com/?format=rss"/>
+      <outline title="BBC News - World" text="BBC News - World" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml#"/>
+      <outline title="UK News - The latest headlines from the UK | Sky News" text="UK News - The latest headlines from the UK | Sky News" type="rss" xmlUrl="https://feeds.skynews.com/feeds/rss/uk.xml"/>
+      <outline title="Home | Mail Online" text="Home | Mail Online" type="rss" xmlUrl="https://www.dailymail.co.uk/home/index.rss"/>
+    </outline>
+    <outline title="US Media" text="US Media">
+      <outline title="CNN.com - RSS Channel - HP Hero" text="CNN.com - RSS Channel - HP Hero" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss"/>
+    </outline>
+    <outline title="UN" text="UN">
+      <outline title="United Nations" text="United Nations" type="rss" xmlUrl="https://www.un.org/en/rss.xml"/>
+      <outline title="United Nations eSubscription Service" text="United Nations eSubscription Service" type="rss" xmlUrl="https://undocs.org/rss/gadocs.xml"/>
+      <outline title="United Nations eSubscription Service" text="United Nations eSubscription Service" type="rss" xmlUrl="https://undocs.org/rss/scdocs.xml"/>
+      <outline title="United Nations eSubscription Service" text="United Nations eSubscription Service" type="rss" xmlUrl="https://undocs.org/rss/ecosocdocs.xml"/>
+    </outline>
+    <outline title="UPSC" text="UPSC">
+      <outline title="Mrunal" text="Mrunal" type="rss" xmlUrl="https://mrunal.org/feed"/>
+      <outline title="Poor Man&apos;s Friend" text="Poor Man&apos;s Friend" type="rss" xmlUrl="https://manjuinsights.wordpress.com/feed/"/>
+      <outline title="PMF IAS" text="PMF IAS" type="rss" xmlUrl="https://www.pmfias.com/feed/"/>
+      <outline title="Economic and Political Weekly" text="Economic and Political Weekly" type="rss" xmlUrl="https://www.epw.in/rss.xml"/>
+    </outline>
+    <outline title="USA" text="USA">
+      <outline title="PSFK" text="PSFK" type="rss" xmlUrl="https://www.psfk.com/feeds/psfk"/>
+      <outline title="The Marshall Project" text="The Marshall Project" type="rss" xmlUrl="https://www.themarshallproject.org/rss/recent.rss"/>
+      <outline title="United States Department of State" text="United States Department of State" type="rss" xmlUrl="https://www.state.gov/feed/"/>
+      <outline title="Pew Research Center" text="Pew Research Center" type="rss" xmlUrl="https://www.pewresearch.org/feed/"/>
+      <outline title="www.washingtontimes.com stories: World" text="www.washingtontimes.com stories: World" type="rss" xmlUrl="https://www.washingtontimes.com/rss/headlines/news/world/"/>
+      <outline title="News, Politics, Opinion, Commentary, and Analysis" text="News, Politics, Opinion, Commentary, and Analysis" type="rss" xmlUrl="https://www.newyorker.com/feed/news"/>
+      <outline title="Everything" text="Everything" type="rss" xmlUrl="https://www.newyorker.com/feed/everything"/>
+      <outline title="The Guardian" text="The Guardian" type="rss" xmlUrl="https://www.theguardian.com/uk/rss"/>
+    </outline>
+    <outline title="World news" text="World news">
+      <outline title="World News" text="World News" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml"/>
+    </outline>
+  </body>
+</opml>
